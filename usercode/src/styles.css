@@ -1,0 +1,19 @@
+body,
+html,
+body * {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  margin: auto;
+  padding: 1em;
+  text-align: center;
+  min-height: 100vh;
+  transition: background-color 0.2s;
+}
